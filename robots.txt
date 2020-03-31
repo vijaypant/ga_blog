@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: /ga_blog/sitemap.xml
