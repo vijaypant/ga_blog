@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/jekyll/blog/2020/03/28/my-first-blog-post.html</loc>
+<lastmod>2020-03-28T15:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>/2020/03/29/no-layout-demo.html</loc>
+<lastmod>2020-03-29T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>/jekyll/blog/2020/03/29/welcome-to-jekyll.html</loc>
+<lastmod>2020-03-29T16:10:10+05:30</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/donate/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+</urlset>
